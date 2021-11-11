@@ -32,7 +32,7 @@ export const homeObjTwo = {
   alt: "Vault",
   start: "true",
   text: "Radom, 2. listopada 1918",
-  link: "//www.mbpradom.pl/index.php/2-nieskategoryzowane/1305-republika-radomska",
+  link: "//pl.wikipedia.org/wiki/Radom",
 };
 
 export const homeObjThree = {
