@@ -20,7 +20,7 @@ export const homeObjTwo = {
   lightTopLine: true,
   lightTextDesc: true,
   topLine: "Prowincja wyprzedziła stolicę o blisko dwa tygodnie",
-  headline: "„Ta, co nigdy nie zginęła.”",
+  headline: "„Ta, co nigdy nie zginęła”",
   description:
     "Ogólny bilans akcji rozbrajania okupantów na ziemiach polskich na przełomie października i listopada 1918 r. był pozytywny. Na ogół obywano się bez poważniejszych potyczek z oddziałami niemieckimi. W całej niemieckiej streﬁe okupacyjnej śmierć poniosło ok. 100 osób. Była więc to stosunkowo niewielka oﬁara w zamian za pełne wyzwolenie ziem centralnej Polski. Strona polska starała się działać powściągliwie, przypadki zabijania okupantów były incydentalne. Rozbrajanie Niemców oraz Austriaków budziło entuzjazm wśród ludności polskiej, która często spontanicznie pomagała oddziałom konspiracyjnym w akcjach zbrojnych.",
   buttonLabel: "Więcej",
