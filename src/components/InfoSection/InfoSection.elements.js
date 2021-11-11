@@ -68,6 +68,7 @@ export const Img = styled.img`
   vertical-align: middle;
   display: inline-block;
   max-height: 500px;
+  object-fit: cover;
 `;
 
 export const Heading = styled.h1`
