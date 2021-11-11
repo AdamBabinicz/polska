@@ -11,6 +11,7 @@ export const homeObjOne = {
   imgStart: "",
   img: require("../../images/1.jfif").default,
   alt: "Credit Card",
+  link: "//www.gazetaprawna.pl/wiadomosci/kraj/artykuly/8290060,obchody-swieta-niepodleglosci-marsz-niepodleglosci-w-warszawie.html",
 };
 
 export const homeObjTwo = {
@@ -41,6 +42,7 @@ export const homeObjThree = {
   imgStart: "start",
   img: require("../../images/9.jpg").default,
   alt: "Vault",
+  link: "//pl.wikipedia.org/wiki/Obchody_100-lecia_odzyskania_niepodleg%C5%82o%C5%9Bci_przez_Polsk%C4%99",
 };
 
 export const homeObjFour = {

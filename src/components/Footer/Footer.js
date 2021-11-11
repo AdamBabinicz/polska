@@ -93,26 +93,40 @@ function Footer() {
             Radom 2021 - {new Date().getFullYear()}.
           </WebsiteRights>
           <SocialIcons>
-            <SocialIconLink href="/" target="_blank" aria-label="Facebook">
+            <SocialIconLink
+              href="//m.facebook.com/events/292991114632935/"
+              target="_blank"
+              aria-label="Facebook"
+            >
               <FaFacebook />
             </SocialIconLink>
-            <SocialIconLink href="/" target="_blank" aria-label="Instagram">
+            <SocialIconLink
+              href="//www.instagram.com/p/CWInn7usyh7/"
+              target="_blank"
+              aria-label="Instagram"
+            >
               <FaInstagram />
             </SocialIconLink>
             <SocialIconLink
-              href={
-                "//www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A?view_as=subscriber"
-              }
+              href={"//www.youtube.com/watch?v=lTM56r00eWQ"}
               rel="noopener noreferrer"
               target="_blank"
               aria-label="Youtube"
             >
               <FaYoutube />
             </SocialIconLink>
-            <SocialIconLink href="/" target="_blank" aria-label="Twitter">
+            <SocialIconLink
+              href="//twitter.com/msz_rp/status/1060924546352627713"
+              target="_blank"
+              aria-label="Twitter"
+            >
               <FaTwitter />
             </SocialIconLink>
-            <SocialIconLink href="/" target="_blank" aria-label="LinkedIn">
+            <SocialIconLink
+              href="//pl.linkedin.com/pulse/dlaczego-11-xi-%C5%9Bwi%C4%99tem-narodowym-jest-tomasz-chraba%C5%82owski"
+              target="_blank"
+              aria-label="LinkedIn"
+            >
               <FaLinkedin />
             </SocialIconLink>
           </SocialIcons>

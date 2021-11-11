@@ -29,6 +29,7 @@ const InfoSection = ({
   imgStart,
   start,
   text,
+  link,
 }) => {
   return (
     <>
@@ -40,7 +41,7 @@ const InfoSection = ({
                 <TopLine lightTopLine={lightTopLine}>{topLine}</TopLine>
                 <Heading lightText={lightText}>{headline}</Heading>
                 <Subtitle lightTextDesc={lightTextDesc}>{description}</Subtitle>
-                <Link to="/ojczyzna">
+                <Link to={link} target="_blank" rel="noopener noreferrer">
                   <Button big fontBig primary={primary}>
                     {buttonLabel}
                   </Button>

@@ -11,6 +11,7 @@ export const homeObjOne = {
   imgStart: "true",
   img: require("../../images/7.jpg").default,
   alt: "Credit Card",
+  link: "//niepodlegla.gov.pl/o-niepodleglej/polskie-drogi-ku-niepodleglosci-wersja-rozszerzona/",
 };
 
 export const homeObjTwo = {
@@ -26,6 +27,7 @@ export const homeObjTwo = {
   imgStart: "",
   img: require("../../images/5.jpg").default,
   alt: "Vault",
+  link: "//www.polska1918-89.pl/budowa-niepodleglej-polski-1918%E2%80%931921,21.html",
 };
 
 export const homeObjThree = {

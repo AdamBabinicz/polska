@@ -14,6 +14,7 @@ export const homeObjOne = {
   alt: "Credit Card",
   start: "",
   text: "29 grudnia 1918 r.",
+  link: "//pl.wikipedia.org/wiki/Rz%C4%85d_J%C4%99drzeja_Moraczewskiego",
 };
 
 export const homeObjTwo = {
@@ -31,6 +32,7 @@ export const homeObjTwo = {
   alt: "Vault",
   start: "true",
   text: "Radom, 2. listopada 1918",
+  link: "//www.mbpradom.pl/index.php/2-nieskategoryzowane/1305-republika-radomska",
 };
 
 export const homeObjThree = {
@@ -48,6 +50,7 @@ export const homeObjThree = {
   alt: "Vault",
   start: "true",
   text: "1920 r.",
+  link: "//dzieje.pl/aktualnosci/100-lat-temu-powolano-rade-narodowa-ksiestwa-cieszynskiego",
 };
 
 export const homeObjFour = {
@@ -66,4 +69,5 @@ export const homeObjFour = {
   alt: "Vault",
   start: "true",
   text: "1929 r.",
+  link: "//commons.wikimedia.org/wiki/File:Polonia_Tryumphans_by_Stanis%C5%82aw_Kaczor-Batowski,_1929.png",
 };

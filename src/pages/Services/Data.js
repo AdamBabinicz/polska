@@ -10,6 +10,7 @@ export const homeObjOne = {
   imgStart: "",
   img: require("../../images/2.svg").default,
   alt: "Credit Card",
+  link: "//pl.wikipedia.org/wiki/J%C3%B3zef_Pi%C5%82sudski",
 };
 
 export const homeObjTwo = {
@@ -38,6 +39,7 @@ export const homeObjThree = {
   imgStart: "start",
   img: require("../../images/5.png").default,
   alt: "Vault",
+  link: "//pl.wikipedia.org/wiki/Ferdinand_Foch",
 };
 
 export const homeObjFour = {
