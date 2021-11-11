@@ -8,7 +8,7 @@ const GlobalStyle = createGlobalStyle`
    font-family: 'Source Sans Pro', sans-serif;
 
    img {
-     object-fit: cover;
+     object-fit: contain;
    }
 }
 `;
