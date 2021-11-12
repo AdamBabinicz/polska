@@ -33,7 +33,7 @@ const InfoSection = ({
 }) => {
   return (
     <>
-      <InfoSec lightBg={lightBg}>
+      <InfoSec lightBg={lightBg} id="start">
         <Container>
           <InfoRow imgStart={imgStart}>
             <InfoColumn>
@@ -42,7 +42,7 @@ const InfoSection = ({
                 <Heading lightText={lightText}>{headline}</Heading>
                 <Subtitle lightTextDesc={lightTextDesc}>{description}</Subtitle>
                 <Link to={link} target="_blank" rel="noopener noreferrer">
-                  <Button big fontBig primary={primary}>
+                  <Button big fontBig primary={primary} smooth={true}>
                     {buttonLabel}
                   </Button>
                 </Link>
