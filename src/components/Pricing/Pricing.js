@@ -33,7 +33,7 @@ function Pricing() {
 
   return (
     <IconContext.Provider value={{ color: "#a9b3c1", size: 64 }}>
-      <PricingSection>
+      <PricingSection id="obchody">
         <PricingWrapper>
           <PricingHeading>Dzieje obchodów</PricingHeading>
           <PricingContainer>

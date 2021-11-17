@@ -1,4 +1,5 @@
-import React from "react";
+import React, { useState } from "react";
+import { animateScroll as scroll } from "react-scroll";
 import { Button } from "../../globalStyles";
 import {
   FaFacebook,
@@ -31,6 +32,10 @@ import {
 import img from "../../images/3.png";
 
 function Footer() {
+  const toggleHome = () => {
+    scroll.scrollToTop();
+  };
+
   return (
     <FooterContainer>
       {/* <FooterSubscription>
@@ -86,7 +91,7 @@ function Footer() {
       <SocialMedia>
         <SocialMediaWrap>
           <SocialLogo to="/" src={img} alt="...">
-            <NavIcon src={img} alt="..." />
+            <NavIcon src={img} alt="..." onClick={toggleHome} />
             Polska
           </SocialLogo>
           <WebsiteRights>
