@@ -90,8 +90,8 @@ function Footer() {
       </FooterLinksContainer>
       <SocialMedia>
         <SocialMediaWrap>
-          <SocialLogo to="/" src={img} alt="...">
-            <NavIcon src={img} alt="..." onClick={toggleHome} />
+          <SocialLogo to="/" src={img} alt="..." onClick={toggleHome}>
+            <NavIcon src={img} alt="..." />
             Polska
           </SocialLogo>
           <WebsiteRights>
